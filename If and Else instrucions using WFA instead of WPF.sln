@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27428.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "If and Else instrucions using WFA instead of WPF", "If and Else instrucions using WFA instead of WPF\If and Else instrucions using WFA instead of WPF.csproj", "{314DC24E-D472-4103-BAF8-EE49EE9C26FD}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{314DC24E-D472-4103-BAF8-EE49EE9C26FD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{314DC24E-D472-4103-BAF8-EE49EE9C26FD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{314DC24E-D472-4103-BAF8-EE49EE9C26FD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{314DC24E-D472-4103-BAF8-EE49EE9C26FD}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E9F91759-FA8F-4042-AC35-EFCA873DFFF3}
+	EndGlobalSection
+EndGlobal
